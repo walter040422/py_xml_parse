@@ -1,0 +1,1 @@
+Read the existing xml files and plot the bounding box on the JPEG images. By doing that, one can learn how to label the ground-truth of bounding box on the images. A reasonable labeling could help to improve the accuracy rate.
